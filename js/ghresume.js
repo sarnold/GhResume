@@ -6,7 +6,7 @@
   var limit = 12;
 
   // Page limits
-  var pageLimit = 5;
+  var pageLimit = 10;
 
   // API
   var api = 'https://api.github.com/users/';
