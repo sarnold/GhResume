@@ -3,7 +3,7 @@
   $.support.cors = true;
 
   // Limit
-  var limit = 12;
+  var limit = 250;
 
   // Page limits
   var pageLimit = 20;
